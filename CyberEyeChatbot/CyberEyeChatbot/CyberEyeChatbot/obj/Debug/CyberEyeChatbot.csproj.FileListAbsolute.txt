@@ -1,0 +1,14 @@
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.exe.config
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.exe
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.pdb
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.csproj.AssemblyReference.cache
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.csproj.CoreCompileInputs.cache
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.exe
+C:\Users\lutha\source\repos\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.pdb
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.exe.config
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.exe
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.exe
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\obj\Debug\CyberEyeChatbot.pdb
+C:\Users\RC_Student_lab\Desktop\CyberEyeChatbot\CyberEyeChatbot\CyberEyeChatbot\bin\Debug\CyberEyeChatbot.pdb
